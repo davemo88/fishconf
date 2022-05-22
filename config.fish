@@ -8,5 +8,4 @@ fzf_configure_bindings
 function fish_mode_prompt
   # NOOP - Disable vim mode indicator
 end
-bass source ~/sgxsdk/environment
 alias bat=batcat
